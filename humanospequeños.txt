@@ -1,0 +1,35 @@
+L283L,Ilfredo,4,2,Cuchara,Pluma de ganzo
+T231T,Pit,7,4,Muñeco sin un brazo,Tren de tipo A,Trigo,Libro imperial
+C133O,Cornelious,7,3,Escultura de mono,Jeringa,Pluma de ganzo
+H379H,Ulrich,9,1,Escultura Divina
+D296N,Odin,5,3,Robot sin pilas,Palo,Tubo de crotolamo
+L321L,Camille,5,1,Bisturí sin filo
+C447R,Catarina,12,1,Elefante Azul
+I464H,Ulrish,12,5,Elefante Gris,Niño Jesús de porcelana,Huevo de dinosaurio,Escultura Divina,Palo con excremento
+I236I,Timeies,15,4,Pincel,Caballo de porcelana,Elefante Rosa,Bisturí sin filo
+O103H,Hostre,13,3,TimeMachine,Robot sin pilas,Arbusto
+O251O,Igor,5,4,Manivela,Tren de tipo B,TimeMachine,Cuchara
+E192B,Esteban,9,2,Olla,Extraño objeto místico
+N457I,Vania,1,3,Amuleto Otomano,Pincel,Libro imperial
+I346O,Boriso,8,3,Amuleto Otomano,Extraño objeto místico,Cuadrado de color
+C331A,Sacha,6,3,Letra B,Tren de tipo B,Sable
+Y254Y,Yuri,5,2,Tren de tipo B,Boca de lobo
+N234L,Lenin,3,5,Huevo de dinosaurio,Fragmeto de piel de Rasputin,Cuchillo,Antiguo resto hominido,Pirámide
+E284F,Fedor,6,5,Sable,Robot con pilas,Cuchillo,Máscara peste negra,Palo con excremento
+D478D,Fiodor,3,3,Extraño objeto místico,Antiguo resto hominido,Robot con pilas
+D440M,Vladimir,8,5,Palo con excremento,Cuadrado de color,Trigo,Sable,Pelota
+S401O,Boris,9,5,Arbusto,Boca de lobo,Trigo,Figura de acción del capitán Rusia,Esfinge egipcia
+A127Y,Katya,10,3,Cuchillo,Manivela,TimeMachine
+A394I,Katia,15,2,Trigo,Robot sin pilas
+T349T,Tania,3,1,Elefante Rosa
+I499I,Vladimira,13,4,Manivela,Honda,Arbusto,Tren de tipo A
+I440I,Nikita,3,1,Palo con excremento
+L193M,Milena,12,3,Extraño objeto místico,Oso de Peluche sin un ojo,Pelota
+N258N,Nadina,6,3,Bola,Máscara peste negra,Bisturí sin filo
+N214T,Natacha,10,2,Pirámide,Sable
+O455A,Fedora,12,3,Libro imperial,Robot sin pilas,Letra A
+I312O,Fiodora,13,3,Letra B,Pelota desinflada,Antiguo resto hominido
+A442U,Dunia,13,3,Oso de Peluche sin un ojo,Honda,Boca de lobo
+I423A,Tatiana,2,5,Muñeco sin un brazo,Extraño objeto místico,Bisturí sin filo,AK-47 sin balas,Cuadrado de color
+O271A,Olga,7,3,Huevo de dinosaurio,Cuadrado de color,Trigo
+I349D,Nadia,10,3,Máscara peste negra,Niño Jesús de porcelana,Arbusto
